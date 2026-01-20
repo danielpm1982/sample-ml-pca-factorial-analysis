@@ -1,7 +1,7 @@
 # sample-ml-pca-factorial-analysis
 This is a sample Machine Learning project that exemplifies how to proceed Factorial Analysis, following Principal Component Analysis (PCA) methodology, using Python, Pandas, NumPy, SciPy, Scikit-learn, Factor-Analyzer, Sympy, Pingouin, PyShp, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments
 
-© 2025 Daniel Pinheiro Maia All Rights Reserved<br>
+© 2026 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
 [**Description of this repository**]<br>
@@ -15,11 +15,6 @@ GitHub jupyter notebook | Colab dynamic code import and run:
 GitHub:<br>[https://github.com/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-students.ipynb](https://github.com/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-students.ipynb)<br>
 Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-students.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-students.ipynb)<br>
 
-**Credit Risk Analysis**
-
-GitHub:<br>[https://github.com/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-credit.ipynb](https://github.com/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-credit.ipynb)<br>
-Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-credit.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-pca-factorial-analysis/blob/master/sample-ml-pca-factorial-analysis-credit.ipynb)<br>
-
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
 [https://github.com/danielpm1982/sample-ml-pca-factorial-analysis](https://github.com/danielpm1982/sample-ml-pca-factorial-analysis) <br>
@@ -28,7 +23,25 @@ You can also run this Jupiter Notebook project remotely at [https://colab.resear
 
 [**Printscreen samples**]<br>
 
-![]()
+![./prints/print01.png](./prints/print01.png)
+
+![./prints/print02.png](./prints/print02.png)
+
+![./prints/print03.png](./prints/print03.png)
+
+![./prints/print04.png](./prints/print04.png)
+
+![./prints/print05.png](./prints/print05.png)
+
+![./prints/print06.png](./prints/print06.png)
+
+![./prints/print07.png](./prints/print07.png)
+
+![./prints/print08.png](./prints/print08.png)
+
+![./prints/print09.png](./prints/print09.png)
+
+![./prints/print10.png](./prints/print10.png)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
